@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\KuHub\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4157870355.index
+4157376630.index
+1941926055.index
+2415291560.index
+1771433393.index
